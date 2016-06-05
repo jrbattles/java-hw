@@ -1,8 +1,8 @@
 public class JavaHelloWorld
 {
-    public static voice main (String [] args)
+    public static void main (String [] args)
     {
-        System.out.printIn("Java Hello World");
-        System.out.printIn("Hello again!");
+        System.out.println("Java Hello World");
+        System.out.println("Hello again!");
     }
 }
